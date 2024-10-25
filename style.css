@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgb(255, 237, 254);
+
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.main-cont{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btnn{
+    display: flex;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+}
